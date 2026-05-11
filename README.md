@@ -58,6 +58,7 @@ Adds a new task to the system.
 **Request Body**
 ```json
 {
+  "id": 1,
   "title": "Buy groceries",
   "description": "Milk, Eggs, Bread"
 }
